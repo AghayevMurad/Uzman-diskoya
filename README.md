@@ -1,1 +1,1 @@
-# Uzman-diskoya
+QR kod
