@@ -1,1 +1,1 @@
-QR kod
+#QR code
